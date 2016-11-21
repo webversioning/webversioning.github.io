@@ -18,6 +18,7 @@ def get_data():
 
 
 def read_file(file_path):
+  print file_path
   with open(file_path) as fp:
     data = fp.read()
   return data
@@ -48,7 +49,6 @@ def get_last_file(domain, url):
     if new_time > last_time:
       last_time = new_time
       last_file = f
-
   return read_file(dir_path + "/" + last_file)
 
 
@@ -84,7 +84,7 @@ def perform_diff(last_file, new_file):
 def perform_diff_and_act(domain, url, last_file, new_file, divs = []):
   diff, is_diff = perform_diff(last_file, new_file)
   if is_diff:
-    write_file(domain, clean(url), new_file)
+    # write_file(domain, clean(url), new_file)
     print "CHANGES DETECTED"
   else:
     # TODO: log that no changes were found

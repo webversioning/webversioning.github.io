@@ -1,0 +1,31 @@
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+p { 
+    margin: 0; 
+}
+
+#original_file {
+    background-color: rgba(241, 196, 15,0.4);
+    height: 100%;
+}
+
+#new_file {
+    background-color: rgba(155, 89, 182,0.4);
+    height: 100%;
+}
+
+#diff_file {
+    background-color: rgba(52, 152, 219,0.4);
+    height: 100%;
+}
+
+.green {
+    background-color: rgba(39, 174, 96,0.75);
+}
+
+.red {
+    background-color: rgba(192, 57, 43,0.75);
+}
