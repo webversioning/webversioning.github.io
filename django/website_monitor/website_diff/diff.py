@@ -18,7 +18,6 @@ def get_data():
 
 
 def read_file(file_path):
-  print file_path
   with open(file_path) as fp:
     data = fp.read()
   return data
@@ -60,6 +59,10 @@ def get_new_file(url):
 
 
 def perform_diff(last_file, new_file):
+
+  if not last_file and not new_file:
+    return [], False
+
   last_file_lines = last_file.splitlines()
   new_file_lines = new_file.splitlines()
 
@@ -74,17 +77,29 @@ def perform_diff(last_file, new_file):
   return diff, is_diff
 
 
-# def perform_diff_on_chunks(last_file, new_file, divs = []):
-#   if divs:
-#     return perform_diff(last_file, new_file)
-#   else:
-#     return perform_diff(last_file, new_file)
+def notify():
+  pass
 
 
 def perform_diff_and_act(domain, url, last_file, new_file, divs = []):
+  if divs:
+      last_selector = pq(last_file)
+      new_selector = pq(new_file)
+      for div in divs:
+          if div['is_id']:
+            query = "#" + div['name']
+          else:
+            query = "." + div['name']
+          diff, is_diff = perform_diff(str(last_selector(query)), str(new_selector(query)))
+          if is_diff:
+            print "CHANGES DETECTED IN DIVS"
+            notify()
+          else:
+            print "NO CHANGES DETECTED"
+            
   diff, is_diff = perform_diff(last_file, new_file)
   if is_diff:
-    # write_file(domain, clean(url), new_file)
+    write_file(domain, clean(url), new_file)
     print "CHANGES DETECTED"
   else:
     # TODO: log that no changes were found
@@ -120,7 +135,3 @@ def run():
     pages = domain_dict[domain]['pages']
     for page in pages:
       analyse(domain, page)
-
-
-def test():
-  return "IT WORKS"

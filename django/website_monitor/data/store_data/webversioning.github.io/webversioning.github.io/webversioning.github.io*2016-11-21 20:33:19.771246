@@ -5,7 +5,7 @@
   <body>
     Hello world
     This is new.
-    <div>
+    <div id='lorem'>
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tincidunt fringilla accumsan. Sed eu fermentum enim. Quisque sagittis nec velit ut pulvinar. Praesent accumsan urna non augue sagittis, at faucibus nulla euismod. Sed accumsan a purus a consequat. Donec ac tincidunt lectus, eu tincidunt elit. Nulla facilisi. Proin tempor nisl turpis, id volutpat metus molestie quis. Mauris sed pharetra quam. Nulla elit purus, sodales non tempor eget, condimentum nec turpis.
     </div>
     <p>
