@@ -1,0 +1,15 @@
+[
+  {"webversioning.github.io":
+    { "pages":
+        [
+          {"url": "https://webversioning.github.io",
+          "divs": [
+            {"name": "lorem",
+             "is_id": true}
+            ]
+          }
+        ],
+      "timer": 60
+    }
+  }
+]

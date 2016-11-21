@@ -8,7 +8,7 @@ from pprint import pprint
 from pyquery import PyQuery as pq
 
 def get_data():
-  with open('load_data/data.json') as fp:
+  with open('data/load_data/data.json') as fp:
     try:
       data = json.load(fp)
     except ValueError:
@@ -26,14 +26,14 @@ def read_file(file_path):
 def write_file(domain, url, data, add_timestamp=True):
   time = "*" + str(datetime.datetime.now())
   filename = url + time
-  dir_path = 'store_data/' + domain + "/" + url + "/" + filename
+  dir_path = 'data/store_data/' + domain + "/" + url + "/" + filename
   with open(dir_path, 'w') as fp:
     fp.write(data)
   return
 
 
 def get_last_file(domain, url):
-  dir_path = 'store_data/' + domain + "/" + url
+  dir_path = 'data/store_data/' + domain + "/" + url
   if not os.path.exists(dir_path):
     os.makedirs(dir_path)
   all_files = os.listdir(dir_path)
@@ -122,4 +122,5 @@ def run():
       analyse(domain, page)
 
 
-run()
+def test():
+  return "IT WORKS"
