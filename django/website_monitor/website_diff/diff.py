@@ -134,4 +134,3 @@ def run():
     pages = domain_dict[domain]['pages']
     for page in pages:
       analyse(domain, page)
-      break
