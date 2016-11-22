@@ -13,7 +13,6 @@ def get_data():
       data = json.load(fp)
     except ValueError:
       data = []
-
   return data
 
 
@@ -38,7 +37,7 @@ def get_last_file(domain, url):
     os.makedirs(dir_path)
   all_files = os.listdir(dir_path)
   if not all_files:
-    return ''
+    return '<html></html>'
 
   last_file = all_files[0]
   last_time = os.stat(dir_path + "/" + last_file)
@@ -95,11 +94,11 @@ def perform_diff_and_act(domain, url, last_file, new_file, divs = []):
             print "CHANGES DETECTED IN DIVS"
             notify()
           else:
-            print "NO CHANGES DETECTED"
-            
+            print "NO CHANGES DETECTED IN DIVS"
+
   diff, is_diff = perform_diff(last_file, new_file)
   if is_diff:
-    write_file(domain, clean(url), new_file)
+    write_file(domain, clean(url).replace(domain, ''), new_file)
     print "CHANGES DETECTED"
   else:
     # TODO: log that no changes were found
@@ -111,7 +110,7 @@ def analyse(domain, page_data):
   print 'ANALYSING', domain, page_data
   url = page_data['url']
   divs = page_data.get('divs', [])
-  last_file = get_last_file(domain, clean(url))
+  last_file = get_last_file(domain, clean(url).replace(domain, ''))
   new_file = get_new_file(url)
   perform_diff_and_act(domain, url, last_file, new_file, divs)
 
@@ -135,3 +134,4 @@ def run():
     pages = domain_dict[domain]['pages']
     for page in pages:
       analyse(domain, page)
+      break

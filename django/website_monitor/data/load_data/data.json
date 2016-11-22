@@ -2,20 +2,20 @@
   {"webversioning.github.io":
     { "pages":
         [
-          {"url": "https://webversioning.github.io",
+          {"url": "https://webversioning.github.io/cmu.html",
           "divs": [
-            {"name": "lorem",
+            {"name": "content",
              "is_id": true}
             ]
           },
-          {"url": "https://webversioning.github.io/vcu.html",
+          {"url": "https://webversioning.github.io/index.html",
           "divs": [
-            {"name": "textcontainer",
+            {"name": "lorem",
              "is_id": true}
             ]
           }
         ],
       "timer": 60
     }
-  },
+  }
 ]
