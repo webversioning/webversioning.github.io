@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="https://www.csd.cs.cmu.edu/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="/node/19167" />
+<link rel="canonical" href="/academics/undergraduate/requirements" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Requirements | Carnegie Mellon University - Computer Science Department</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <style>
+@import url("https://www.csd.cs.cmu.edu/modules/system/system.base.css?ocircv");
+</style>
+<style>
+@import url("https://www.csd.cs.cmu.edu/sites/all/modules/scroll_to_top/scroll_to_top.css?ocircv");
+@import url("https://www.csd.cs.cmu.edu/sites/all/modules/calendar/css/calendar_multiday.css?ocircv");
+@import url("https://www.csd.cs.cmu.edu/sites/all/modules/date/date_api/date.css?ocircv");
+@import url("https://www.csd.cs.cmu.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?ocircv");
+@import url("https://www.csd.cs.cmu.edu/sites/all/modules/date/date_repeat_field/date_repeat_field.css?ocircv");
+@import url("https://www.csd.cs.cmu.edu/modules/field/theme/field.css?ocircv");
+@import url("https://www.csd.cs.cmu.edu/modules/node/node.css?ocircv");
+@import url("https://www.csd.cs.cmu.edu/modules/search/search.css?ocircv");
+@import url("https://www.csd.cs.cmu.edu/modules/user/user.css?ocircv");
+@import url("https://www.csd.cs.cmu.edu/sites/all/modules/views/css/views.css?ocircv");
+</style>
+<style>
+@import url("https://www.csd.cs.cmu.edu/sites/all/modules/ctools/css/ctools.css?ocircv");
+</style>
+<style>#back-top{right:40px;}#back-top span#button{background-color:#CCCCCC;}#back-top span#button:hover{opacity:1;filter:alpha(opacity = 1);background-color:#777777;}
+</style>
+<style>
+@import url("https://www.csd.cs.cmu.edu/sites/all/modules/biblio/biblio.css?ocircv");
+@import url("https://www.csd.cs.cmu.edu/sites/all/modules/responsive_menus/styles/responsive_menus_simple/css/responsive_menus_simple.css?ocircv");
+@import url("https://www.csd.cs.cmu.edu/sites/all/libraries/superfish/css/superfish.css?ocircv");
+</style>
+<style>
+@import url("https://www.csd.cs.cmu.edu/sites/all/themes/csd2014/css/styles.css?ocircv");
+</style>
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css?ocircv" media="all" />
+  <script src="https://www.csd.cs.cmu.edu/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.3"></script>
+<script src="https://www.csd.cs.cmu.edu/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.csd.cs.cmu.edu/misc/drupal.js?ocircv"></script>
+<script src="https://www.csd.cs.cmu.edu/sites/all/modules/jquery_dollar/jquery_dollar.js?ocircv"></script>
+<script src="https://www.csd.cs.cmu.edu/misc/form.js?v=7.50"></script>
+<script src="https://www.csd.cs.cmu.edu/sites/all/modules/floating_block/floating_block.js?ocircv"></script>
+<script src="https://www.csd.cs.cmu.edu/sites/all/modules/scroll_to_top/scroll_to_top.js?ocircv"></script>
+<script src="https://www.csd.cs.cmu.edu/sites/all/modules/responsive_menus/styles/responsive_menus_simple/js/responsive_menus_simple.js?ocircv"></script>
+<script src="https://www.csd.cs.cmu.edu/sites/all/modules/piwik/piwik.js?ocircv"></script>
+<script>var _paq = _paq || [];(function(){var u=(("https:" == document.location.protocol) ? "https://rich.srv.cs.cmu.edu/analytics/" : "https://rich.srv.cs.cmu.edu/analytics/");_paq.push(["setSiteId", "3"]);_paq.push(["setTrackerUrl", u+"piwik.php"]);_paq.push(["setDoNotTrack", 1]);_paq.push(["trackPageView"]);_paq.push(["setIgnoreClasses", ["no-tracking","colorbox"]]);_paq.push(["enableLinkTracking"]);var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src=u+"piwik.js";s.parentNode.insertBefore(g,s);})();</script>
+<script src="https://www.csd.cs.cmu.edu/misc/collapse.js?v=7.50"></script>
+<script src="https://www.csd.cs.cmu.edu/sites/all/libraries/superfish/sfsmallscreen.js?ocircv"></script>
+<script src="https://www.csd.cs.cmu.edu/sites/all/libraries/superfish/superfish.js?ocircv"></script>
+<script src="https://www.csd.cs.cmu.edu/sites/all/libraries/superfish/jquery.hoverIntent.minified.js?ocircv"></script>
+<script src="https://www.csd.cs.cmu.edu/sites/all/libraries/superfish/supposition.js?ocircv"></script>
+<script src="https://www.csd.cs.cmu.edu/sites/all/libraries/superfish/supersubs.js?ocircv"></script>
+<script src="https://www.csd.cs.cmu.edu/sites/all/modules/superfish/superfish.js?ocircv"></script>
+<script src="https://www.csd.cs.cmu.edu/sites/all/themes/csd2014/js/jquery.sticky.js?ocircv"></script>
+<script src="https://www.csd.cs.cmu.edu/sites/all/themes/csd2014/js/jquery.matchHeight.js?ocircv"></script>
+<script src="https://www.csd.cs.cmu.edu/sites/all/themes/csd2014/js/sticky.js?ocircv"></script>
+<script src="https://www.csd.cs.cmu.edu/sites/all/themes/csd2014/js/jquery.slideclick.js?ocircv"></script>
+<script src="https://www.csd.cs.cmu.edu/sites/all/themes/csd2014/js/jquery.vegas.js?ocircv"></script>
+<script src="https://www.csd.cs.cmu.edu/sites/all/themes/csd2014/js/jquery.videoBG.js?ocircv"></script>
+<script src="https://www.csd.cs.cmu.edu/sites/all/themes/csd2014/js/jQueryRotate.js?ocircv"></script>
+<script src="https://www.csd.cs.cmu.edu/sites/all/themes/csd2014/js/jquery-ui/jquery-ui.js?ocircv"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"csd2014","theme_token":"cIYVA-GMPsPti0umNXTDJylna1ne0OHlNjn5-bKeZOA","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_dollar\/jquery_dollar.js":1,"misc\/form.js":1,"sites\/all\/modules\/floating_block\/floating_block.js":1,"sites\/all\/modules\/scroll_to_top\/scroll_to_top.js":1,"sites\/all\/modules\/responsive_menus\/styles\/responsive_menus_simple\/js\/responsive_menus_simple.js":1,"sites\/all\/modules\/piwik\/piwik.js":1,"0":1,"misc\/collapse.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1,"sites\/all\/themes\/csd2014\/js\/jquery.sticky.js":1,"sites\/all\/themes\/csd2014\/js\/jquery.matchHeight.js":1,"sites\/all\/themes\/csd2014\/js\/sticky.js":1,"sites\/all\/themes\/csd2014\/js\/jquery.slideclick.js":1,"sites\/all\/themes\/csd2014\/js\/jquery.vegas.js":1,"sites\/all\/themes\/csd2014\/js\/jquery.videoBG.js":1,"sites\/all\/themes\/csd2014\/js\/jQueryRotate.js":1,"sites\/all\/themes\/csd2014\/js\/jquery-ui\/jquery-ui.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/scroll_to_top\/scroll_to_top.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"0":1,"sites\/all\/modules\/biblio\/biblio.css":1,"sites\/all\/modules\/responsive_menus\/styles\/responsive_menus_simple\/css\/responsive_menus_simple.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/themes\/csd2014\/system.menus.css":1,"sites\/all\/themes\/csd2014\/system.messages.css":1,"sites\/all\/themes\/csd2014\/system.theme.css":1,"sites\/all\/themes\/csd2014\/css\/styles.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.1.0\/css\/font-awesome.min.css":1}},"floating_block":{"settings":{"#block-menu-menu-admissions-deadlines":[],"#block-menu-menu-doctoral-subnav":[],"#block-menu-menu-master-s-subnav":[],"#back-top":[]},"minWidth":"768px"},"scroll_to_top":{"label":""},"responsive_menus":[{"toggler_text":"\u2630 Menu","selectors":["#nav"],"media_size":"767","absolute":true,"remove_attributes":true,"responsive_menus_style":"responsive_menus_simple"}],"piwik":{"trackMailto":1},"urlIsAjaxTrusted":{"\/academics\/undergraduate\/requirements":true},"superfish":[{"id":"1","sf":{"pathLevels":"2","delay":"900","animation":{"opacity":"show","height":"show"},"speed":"\u0027fast\u0027","autoArrows":false,"dropShadows":false,"disableHI":false},"plugins":{"smallscreen":{"mode":"window_width","addSelected":false,"menuClasses":false,"hyperlinkClasses":false,"title":"Main menu"},"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}},{"id":"2","sf":{"animation":{"opacity":"show","height":"show"},"speed":"\u0027fast\u0027","autoArrows":true,"dropShadows":true,"disableHI":false},"plugins":{"smallscreen":{"mode":"window_width","addSelected":false,"menuClasses":false,"hyperlinkClasses":false,"title":"Main Menu - Mobile"},"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}]});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  
+
+
+
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-19167 node-type-page section-academics" >
+      <p id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      <div id="page">
+
+  <header class="header clearfix" >
+        <div class="header__region region region-header">
+    <div id="block-menu-menu-audience-specific-menu" class="block block-menu first odd" role="navigation">
+
+      
+  <ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/" title="" class="menu__link">Home</a></li>
+<li class="menu__item is-leaf leaf"><a href="/content/staff" title="" class="menu__link">Staff</a></li>
+<li class="menu__item is-leaf leaf"><a href="/content/faculty" title="" class="menu__link">Faculty</a></li>
+<li class="menu__item is-leaf leaf"><a href="/content/current-students" title="" class="menu__link">Current Students</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/content/prospective-students" title="" class="menu__link">Prospective Students</a></li>
+</ul>
+</div>
+<div id="block-block-6" class="block block-block even">
+
+      
+  <p><a href="/" border="0"><img src="/sites/all/themes/csd2014/images/csd-logo.png" border="0" /></a></p>
+
+</div>
+<div id="block-multiblock-1" class="block block-multiblock last odd">
+
+      
+  <form action="/academics/undergraduate/requirements" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="image" id="edit-submit" name="submit" src="/sites/all/themes/csd2014/images/search-button.png" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-aEkTm51jbswimBRPgxMD1exXtvCXoyoFgxyxZXPOzFk" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div>
+  </div>
+  </header>
+  <div id="nav" class="navigation">
+        <div class="region region-navigation">
+    <div id="block-superfish-1" class="block block-superfish first odd">
+
+      
+  <ul id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-none sf-total-items-5 sf-parent-items-5 sf-single-items-0"><li id="menu-218-1" class="first odd sf-item-1 sf-depth-1 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><span title="" class="sf-depth-1 menuparent nolink">Academics</span><ul><li id="menu-316-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/academics/doctoral/overview" class="sf-depth-2">Doctoral Programs</a></li><li id="menu-315-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/academics/masters/overview" class="sf-depth-2">Masters Programs</a></li><li id="menu-314-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/academics/undergraduate/overview" class="sf-depth-2">Undergraduate Programs</a></li><li id="menu-2030-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/academics/enrichment-and-outreach" class="sf-depth-2">Enrichment &amp; Outreach</a></li><li id="menu-318-1" class="last odd sf-item-5 sf-depth-2 sf-no-children"><a href="http://www.cs.cmu.edu/~scsfacts/studentawards.html" title="" class="sf-depth-2">Awards</a></li></ul></li><li id="menu-319-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><span title="" class="sf-depth-1 menuparent nolink">Directory</span><ul><li id="menu-1870-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/directory/all" title="" class="sf-depth-2">Full List</a></li><li id="menu-1872-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/directory/faculty" title="" class="sf-depth-2">Faculty</a></li><li id="menu-1873-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/directory/staff" title="" class="sf-depth-2">Staff</a></li><li id="menu-1874-1" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/directory/post-docs" title="" class="sf-depth-2">Post Docs</a></li></ul></li><li id="menu-325-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><span title="" class="sf-depth-1 menuparent nolink">Research</span><ul><li id="menu-1838-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/research/faculty-research-guide" class="sf-depth-2">Research Areas and Faculty Guide</a></li><li id="menu-329-1" class="last even sf-item-2 sf-depth-2 sf-no-children"><a href="/undergrads" title="" class="sf-depth-2">Student Projects</a></li></ul></li><li id="menu-330-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><span title="" class="sf-depth-1 menuparent nolink">News &amp; Events</span><ul><li id="menu-331-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/news" title="" class="sf-depth-2">CSD News</a></li><li id="menu-1935-1" class="last even sf-item-2 sf-depth-2 sf-no-children"><a href="/calendar" class="sf-depth-2">CSD Events</a></li></ul></li><li id="menu-333-1" class="last odd sf-item-5 sf-depth-1 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><span title="" class="sf-depth-1 menuparent nolink">About CSD</span><ul><li id="menu-334-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/content/contact-csd" class="sf-depth-2">Contact</a></li><li id="menu-336-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/content/directions-parking" class="sf-depth-2">Directions &amp; Parking</a></li><li id="menu-335-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/content/employment" class="sf-depth-2">Employment</a></li><li id="menu-337-1" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/content/mission-history" class="sf-depth-2">Mission &amp; History</a></li></ul></li></ul>
+</div>
+<div id="block-superfish-2" class="block block-superfish even">
+
+      
+  <ul id="superfish-2" class="menu sf-menu sf-menu-mobile-main-menu sf-horizontal sf-style-none sf-total-items-7 sf-parent-items-6 sf-single-items-1"><li id="menu-4161-2" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="/search/site" title="" class="sf-depth-1">Search</a></li><li id="menu-2825-2" class="middle even sf-item-2 sf-depth-1 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><span title="" class="sf-depth-1 menuparent nolink">Academics</span><ul><li id="menu-2826-2" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/academics/doctoral/overview" class="sf-depth-2">Doctoral Programs</a></li><li id="menu-2827-2" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/academics/masters/overview" class="sf-depth-2">Masters Programs</a></li><li id="menu-2828-2" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/academics/undergraduate/overview" class="sf-depth-2">Undergraduate Programs</a></li><li id="menu-2829-2" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/academics/enrichment-and-outreach" class="sf-depth-2">Enrichment &amp; Outreach</a></li><li id="menu-2830-2" class="last odd sf-item-5 sf-depth-2 sf-no-children"><a href="http://www.cs.cmu.edu/~scsfacts/studentawards.html" title="" class="sf-depth-2">Awards</a></li></ul></li><li id="menu-2831-2" class="middle odd sf-item-3 sf-depth-1 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><span title="" class="sf-depth-1 menuparent nolink">Directory</span><ul><li id="menu-2832-2" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/directory/all" title="" class="sf-depth-2">Full List</a></li><li id="menu-2833-2" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/directory/faculty" title="" class="sf-depth-2">Faculty</a></li><li id="menu-2834-2" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/directory/staff" title="" class="sf-depth-2">Staff</a></li><li id="menu-2835-2" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/directory/post-docs" title="" class="sf-depth-2">Post Docs</a></li></ul></li><li id="menu-2837-2" class="middle even sf-item-4 sf-depth-1 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent"><span title="" class="sf-depth-1 menuparent nolink">Research</span><ul><li id="menu-2838-2" class="firstandlast odd sf-item-1 sf-depth-2 sf-no-children"><a href="/research/faculty-research-guide" title="" class="sf-depth-2">Research Areas and Faculty Guide</a></li></ul></li><li id="menu-2841-2" class="middle odd sf-item-5 sf-depth-1 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><span title="" class="sf-depth-1 menuparent nolink">News &amp; Events</span><ul><li id="menu-2842-2" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/news" title="" class="sf-depth-2">CSD News</a></li><li id="menu-2843-2" class="last even sf-item-2 sf-depth-2 sf-no-children"><a href="/calendar" class="sf-depth-2">CSD Events</a></li></ul></li><li id="menu-2844-2" class="middle even sf-item-6 sf-depth-1 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><span title="" class="sf-depth-1 menuparent nolink">About CSD</span><ul><li id="menu-2845-2" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/content/contact-csd" class="sf-depth-2">Contact</a></li><li id="menu-2846-2" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/content/directions-parking" class="sf-depth-2">Directions &amp; Parking</a></li><li id="menu-2847-2" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/content/employment" class="sf-depth-2">Employment</a></li><li id="menu-2848-2" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/content/mission-history" class="sf-depth-2">History &amp; Mission</a></li></ul></li><li id="menu-2849-2" class="last odd sf-item-7 sf-depth-1 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><span title="" class="sf-depth-1 menuparent nolink">Helpful Links for...</span><ul><li id="menu-2850-2" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/content/prospective-students" title="" class="sf-depth-2">Prospective Students</a></li><li id="menu-2851-2" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/content/current-students" title="" class="sf-depth-2">Current Students</a></li><li id="menu-2852-2" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/content/faculty" title="" class="sf-depth-2">Faculty</a></li><li id="menu-2853-2" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/content/staff" title="" class="sf-depth-2">Staff</a></li></ul></li></ul>
+</div>
+<div id="block-search-form" class="block block-search last odd" role="search">
+
+      
+  <form action="/academics/undergraduate/requirements" method="post" id="search-block-form--2" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--4">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--4" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions--2"><input type="image" id="edit-submit--2" name="submit" src="/sites/all/themes/csd2014/images/search-button.png" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-plXJAfvlIji6diP9wmxBzk_0gMOh83omuK9p--xr6_s" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div>
+  </div>
+  </div>
+
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+
+                  <a id="main-content"></a>
+                    <h1 class="page__title title" id="page-title">Requirements</h1>
+                                          
+                    NEW LINE IN CONTENT
+
+<article class="node-19167 node node-page view-mode-full clearfix" about="/academics/undergraduate/requirements" typeof="foaf:Document">
+
+      <header>
+                  <span property="dc:title" content="Requirements" class="rdf-meta element-hidden"></span>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Each undergraduate program has a unique set of academic requirements associated with it. Detailed information about each program or a link to the program's home department is included below.</p>
+<p class="heading"><a id="bscsreq"></a>B.S. in Computer Science</p>
+<p>Students pursuing a B.S. in Computer Science must take a minimum of 360 units in the following categories: Computer Science, Mathematics/Probability, Engineering and Natural Sciences, Humanities and Arts, Required Minor, Computing @ Carnegie Mellon and Free Electives.</p>
+<p><em>Curriculum Requirements&nbsp;</em><em>Revised August, 2016</em></p>
+<p><em>(Requirements below are binding on students admitted for the fall of 2014, 2015 and 2106; students admitted prior to fall 2014 should refer to curriculum information under <a href="/content/current-students">Current Students</a>.)</em></p>
+<p><strong>Computer Science<br /></strong>The following computer science courses are required:</p>
+<ul>
+<li>15-128: Freshman Immigration Course*</li>
+<li>15-122: Principles of Imperative Computation**</li>
+<li>15-150: Principles of Functional Programming</li>
+<li>15-210: Parallel and Sequential Data Structures and Algorithms</li>
+<li>15-213: Introduction to Computer Systems</li>
+<li>15-251: Great Theoretical Ideas in Computer Science</li>
+<li>15-451: Algorithm Design and Analysis</li>
+</ul>
+<p><em>*Students with no prior experience with software tools (editors, scripting, code management, etc.) are encouraged to take 15-131: Great Practical Ideas in Computer Science concurrently with this course.</em></p>
+<p><em>**Students with no prior programming experience take 15-112: Fundamentals of Programming before 15-122.</em></p>
+<p><strong>Communications Course (choose one)<br /></strong></p>
+<ul>
+<li>76-270 Writing for the Professions</li>
+<li>15-300 Research and Innovation in Computer Science (currently available in Pittsburgh only)</li>
+<li>15-221 Technical Communication for Computer Scientists (currently available in Doha only)</li>
+</ul>
+<p><strong>Algorithms &amp; Complexity Elective (choose one)</strong></p>
+<ul>
+<li>15-354: Computational Discrete Mathematics</li>
+<li>15-355: Modern Computer Algebra</li>
+<li>15-453: Formal Languages, Automata, and Computability</li>
+<li>15-455: Undergraduate Complexity Theory</li>
+<li>15-456: Computational Geometry</li>
+<li>21-301: Combinatorics</li>
+<li>21-484: Graph Theory</li>
+<li>Others as designated by the CS Undergraduate Program</li>
+</ul>
+<p><strong>Applications Elective (choose one)</strong></p>
+<ul>
+<li>02-510: Computational Genomics</li>
+<li>05-391: Designing Human-Centered Software</li>
+<li>10-401: Introduction to Machine Learning (or 10-601 Introduction to Machine Learning)</li>
+<li>11-411: Natural Language Processing</li>
+<li>15-313: Foundations of Software Engineering</li>
+<li>15-323 Computer Music Systems &amp; Information Processing (or 15-322 Introduction to Computer Music)</li>
+<li>15-381: Artificial Intelligence: Representation and Problem Solving</li>
+<li>15-415: Database Applications</li>
+<li>15-462: Computer Graphics</li>
+<li>16-384: Robot Kinematics and Dynamics</li>
+<li>16-385: Computer Vision</li>
+<li>Others as designated by the CS Undergraduate Program</li>
+</ul>
+<p><strong>Logics &amp; Languages Elective (choose one)</strong></p>
+<ul>
+<li>15-312: Foundations of Programming Languages</li>
+<li>15-317: Constructive Logic</li>
+<li>15-414: Bug Catching: Automated Program Verification and Testing</li>
+<li>15-424: Foundations of Cyber-Physical Systems</li>
+<li>21-300: Basic Logic</li>
+<li>80-310: Formal Logic</li>
+<li>80-311: Undecidability and Incompleteness</li>
+<li>Others as designated by the CS Undergraduate Program</li>
+</ul>
+<p><strong>Software Systems Elective (choose one)</strong></p>
+<ul>
+<li>15-410: Operating System Design and Implementation</li>
+<li>15-411: Compiler Design</li>
+<li>15-418: Parallel Computer Architecture and Programming</li>
+<li>15-440: Distributed Systems</li>
+<li>15-441: Computer Networks</li>
+<li>Others as designated by the CS Undergraduate Program</li>
+</ul>
+<p><strong>Computer Science Electives (choose two)<br /></strong>Choose two courses from any SCS department, usually at the 200-level or above. Departments include Computer Science (15-xxx), Computational Biology Department (02-), Human-Computer Interaction Institute (05-), Institute for Software Research (08, 17-), Machine Learning (10-), Language Technologies Institute (11-) and the Robotics Institute (16-).</p>
+<p>NOTE: The following courses do NOT count as Computer Science electives: 02-223, 02-250, 02-261, 05-341, 08-200, 08-532, 08-533 and 15-351 (or any equivalent cross-listed courses to these courses). Check with your academic advisor before taking any new SCS courses to determine eligibility.</p>
+<p><strong>Mathematics &amp; Probability<br /></strong>Five mathematics courses are required.</p>
+<ul>
+<li>21-120: Differential and Integral Calculus</li>
+<li>21-122: Integration and Approximation</li>
+<li>15-151: Mathematical Foundations for Computer Science (if not offered, substitute 21-127: Concepts of Mathematics)</li>
+<li>One of the following Linear Algebra courses: 21-241: Matrices and Linear Transformations; 21-242: Matrix Theory</li>
+<li>One of the following Probability courses: 15-359: Probability and Computing; 21-325: Probability; 36-217: Probability Theory and Random Processes; 36-225: Introduction to Probability Theory</li>
+</ul>
+<p><strong>Engineering &amp; Natural Sciences<br /></strong>Four engineering or science courses are required, of which at least one must have a laboratory component and at least two must be from the same department. Courses with a primary focus on programming, computation or mathematics are not acceptable for science or engineering courses.</p>
+<p>Courses meeting the lab requirement include:</p>
+<ul>
+<li>02-261: Quantitative Cell and Molecular Biology Laboratory</li>
+<li>03-124: Modern Biology Laboratory (coreq 03-121)</li>
+<li>09-101: Introduction to Experimental Chemistry (this 3 unit lab together with 09-105, Introduction to Modern Chemistry, satisfies the lab requirement)</li>
+<li>09-221: Laboratory I: Introduction to Chemical Analysis</li>
+<li>27-100: Engineering the Materials of the Future</li>
+<li>33-104: Experimental Physics</li>
+<li>42-203: Biomedical Engineering Laboratory (crosslisted with 03-206)</li>
+<li>85-310: Research Methods in Cognitive Psychology</li>
+<li>85-314: Cognitive Neuroscience Research Methods</li>
+</ul>
+<p>The following courses from the Dietrich College of Humanities and Social Sciences and University Wide Studies can be used to satisfy the Science and Engineering requirement:</p>
+<ul>
+<li>85-219: Biological Foundations of Behavior</li>
+<li>85-310: Research Methods in Cognitive Psychology</li>
+<li>85-314: Cognitive Neuroscience Research Methods</li>
+<li>99-238: Materials, Energy and Environment</li>
+</ul>
+<p>The following courses from the Lane Center can be used to satisfy the Science and Engineering requirement and can be paired with a Biology [03-] course for two courses from one department:</p>
+<ul>
+<li>02-223: Personalized Medicine: Understanding Your Own Genome</li>
+<li>02-250: Introduction to Computational Biology (or 02-251 + 02-252)</li>
+<li>02-261: Quantitative Cell and Molecular Biology Laboratory (also meets the lab requirement)</li>
+</ul>
+<p>The following courses cannot be used to satisfy the Science and Engineering requirement:</p>
+<ul>
+<li>03-511: Computational Molecular Biology and Genomics</li>
+<li>03-512: Computational Methods for Biological Modeling and Simulation</li>
+<li>06-262: Mathematical Methods for Chemical Engineering</li>
+<li>09-103: Atoms, Molecules, and Chemical Change</li>
+<li>09-231: Mathematical Methods for Chemists</li>
+<li>12-271: Introduction to Computer Applications in Civil &amp; Environmental Engineering</li>
+<li>18-090: Introduction to Signal Processing for Creative Practice</li>
+<li>18-200: Emerging Trends in Electrical and Computer Engineering</li>
+<li>18-202: Mathematical Foundations of Electrical Engineering</li>
+<li>18-213: Introduction to Computer Systems</li>
+<li>18-345: Introduction to Telecommunication Networks</li>
+<li>18-411: Computational Techniques in Engineering (crosslisted with 27-410)</li>
+<li>18-482: Telecommunications, Technology Policy &amp; Management</li>
+<li>18-487: Introduction to Computer &amp; Network Security &amp; Applied Cryptography</li>
+<li>18-540: Rapid Prototyping of Computer Systems</li>
+<li>18-6xx/7xx/8xx/9xx: All graduate level ECE courses, 600 and above</li>
+<li>19-101: Introduction to Engineering and Public Policy</li>
+<li>19-211: Ethics and Policy Issues in Computing</li>
+<li>19-325: Technology and Policy Writing for Lay Audiences</li>
+<li>19-402: Telecommunications, Technology Policy &amp; Management</li>
+<li>19-411: Global Competitiveness: Firms, Nations and Technological Change</li>
+<li>19-432: Special Topics: Bitcoin and Cryptocurrencies</li>
+<li>27-410: Computational Techniques in Engineering</li>
+<li>33-100: Basic Experimental Physics</li>
+<li>33-115: Physics for Future Presidents</li>
+<li>33-124: Introduction to Astronomy</li>
+<li>33-232: Mathematical Methods for Physicists</li>
+<li>39-100: What Is Engineering?</li>
+<li>39-200: Business for Engineers</li>
+<li>42-201: Professional Issues in Biomedical Engineering</li>
+</ul>
+<p><strong>Humanities and Arts<br /></strong>All candidates for a bachelor's degree must complete a minimum of 63 units offered by the Dietrich College of Humanities &amp; Social Sciences and/or the College of Fine Arts. The humanities and arts (or general education) courses for SCS students are to meet the distribution requirements found on the <a href="/content/bscs-humanities-and-arts-requirements">SCS Humanities and Arts page</a>.</p>
+<p><strong>Required Minor<br /></strong>All CS undergraduates must complete a minor. Completion of a second major (or double degree) also satisfies this requirement. If permitted by the minor or second major department, courses taken in satisfaction for the minor or second major may also count toward any category other than required courses in computer science. More information can be found on the minor requirement page.</p>
+<p><strong>Computing @ Carnegie Mellon<br /></strong>All CMU students must take 99-10x Computing @ Carnegie Mellon.</p>
+<p><strong>Free Electives<br /></strong>A free elective is any Carnegie Mellon course. However, a maximum of nine units of Physical Education and/or Military Science (ROTC) and/or Student-Led (StuCo) courses may be used toward fulfilling graduation requirements.</p>
+<p><a id="compbioreq"></a><span class="heading">B.S. in Computational Biology</span></p>
+<p>The bachelor of science program in computational biology is administered by the <a href="http://www.cbd.cmu.edu" target="_blank">Computational Biology Department</a>. You can see a full list of requirements and courses <a href="http://www.cbd.cmu.edu/education/bs-in-computational-biology/degree-requirements/" target="_blank">here</a>.</p>
+<p class="heading"><a id="bcsareq"></a>Bachelor of Computer Science and Arts</p>
+<p>The BCSA curriculum requires students to fulfill general education requirements, and requirements for their CFA and SCS concentrations. For full details about the program's academic requirements, click <a href="http://www.cmu.edu/interdisciplinary/programs/bcsacurriculum.html" target="_blank">here</a>.</p>
+<p class="heading"><a id="musictechreq"></a>B.S. in Music and Technology</p>
+<p>In the Music and Technology undergraduate program, students complete either a music concentration or the technical concentration. A complete breakdown of the curriculum is available <a href="http://www.cs.cmu.edu/~music/mat/bachelor-curriculum.html" target="_blank">here</a>.</p>
+<p class="heading"><a id="secondmajorreq"></a>Second Major in C.S.</p>
+<p>The additional major in computer science allows students pursuing a primary major in another department to also earn a CS degree. Students must complete the following requirements.</p>
+<p class="bd"><strong>Prerequisite Courses</strong></p>
+<ul>
+<li>15-112: Fundamentals of Programming</li>
+<li>15-122: Principles of Imperative Computation (requires 21-127 as a co-req)</li>
+<li>15-150: Principles of Functional Programming</li>
+<li>21-120: Differential &amp; Integral Calculus</li>
+<li>21-122: Integration, Differential Equations, and Approximation</li>
+<li>21-127: Concepts of Mathematics</li>
+</ul>
+<p class="bd"><strong>Double Major Requirements</strong></p>
+<ul>
+<li class="bd">Computer Science Core</li>
+<ul>
+<li>15-210: Parallel and Sequential Data Structures and Algorithms</li>
+<li>15-213: Introduction to Computer Systems</li>
+<li>15-251: Great Theoretical Ideas in Computer Science</li>
+<li>15-451: Algorithm Design and Analysis</li>
+</ul>
+</ul>
+<ul>
+<li class="bd">One of the following Linear Algebra courses:</li>
+<ul>
+<li>21-241: Matrices and Linear Transformations</li>
+<li>21-242: Matrix Theory</li>
+</ul>
+</ul>
+<ul>
+<li class="bd">One of the following Probability courses:</li>
+<ul>
+<li>15-359: Probability and Computing</li>
+<li>21-325: Probability</li>
+<li>36-217: Probability Theory and Random Processes</li>
+<li>36-225: Introduction to Probability and Statistics I</li>
+</ul>
+</ul>
+<ul>
+<li class="bd">One Communications course:</li>
+<ul>
+<li>15-221: Technical Communication for Computer Scientists</li>
+</ul>
+</ul>
+<ul>
+<li class="bd">One Algorithms &amp; Complexity elective:</li>
+<ul>
+<li>15-354: Computational Discrete Mathematics</li>
+<li>15-355: Modern Computer Algebra</li>
+<li>15-453: Formal Languages, Automata, and Computability</li>
+<li>21-301: Combinatorics</li>
+<li>21-484: Graph Theory</li>
+</ul>
+</ul>
+<ul>
+<li class="bd">One Applications elective:</li>
+<ul>
+<li>02-450: Automation of Biological Research</li>
+<li>05-391: Designing Human-Centered Software</li>
+<li>05-431: Software Structures for User Interfaces</li>
+<li>10-401/10-601: Machine Learning</li>
+<li>11-411: Natural Language Processing</li>
+<li>15-313: Foundations of Software Engineering</li>
+<li>15-322/15-323: Computer Music</li>
+<li>15-381: Artificial Intelligence: Representation and Problem Solving</li>
+<li>15-415: Database Applications</li>
+<li>15-462: Computer Graphics</li>
+<li>16-384: Robot Kinematics and Dynamics</li>
+<li>16-385: Computer Vision</li>
+</ul>
+</ul>
+<ul>
+<li class="bd">One Logics &amp; Languages elective::</li>
+<ul>
+<li>15-312: Foundations of Programming Languages</li>
+<li>15-317: Constructive Logic</li>
+<li>15-414: Bug Catching: automated Program Verification and Testing</li>
+<li>15-424: Foundations of Cyber-Physical Systems</li>
+<li>21-300: Basic Logic</li>
+<li>80-310: Formal Logic</li>
+<li>80-311: Computability and Incompleteness</li>
+</ul>
+</ul>
+<ul>
+<li class="bd">One Software Systems elective:</li>
+<ul>
+<li>15-410: Operating System Design and Implementation</li>
+<li>15-411: Compiler Design</li>
+<li>15-418: Parallel Computer Architecture and Programming</li>
+<li>15-440: Distributed Computer Systems</li>
+<li>15-441: Computer Networks</li>
+</ul>
+</ul>
+<ul>
+<li>Two Computer Science electives (can be from any SCS department; usually 200-level or above)</li>
+</ul>
+<p>In order to avoid excessive double-counting, students pursuing a double major or minor in computer science must complete at least six courses in their home department, of at least 9 units each, none of which are required by (or are cognates for requirements in) the computer science major.</p>
+<p class="heading"><a id="minorreq"></a>CS Minor</p>
+<p>Students working toward a CS minor must take the prerequisite courses 15-112: Fundamentals of Programming and 21-127: Concepts of Mathematics.</p>
+<p>Required courses include:</p>
+<ul>
+<li>15-122: Principles of Imperative Computation (requires 21-127 as a co-req)</li>
+<li>15-150: Principles of Functional Programming</li>
+<li>15-210: Parallel and Sequential Data Structures and Algorithms</li>
+<li>One of the following courses: 15-213: Introduction to Computer Systems; 15-251: Great Theoretical Ideas in Computer Science</li>
+<li>Two Computer Science electives (15-213 or higher; one can be from any SCS department, with prior approval)</li>
+</ul>
+</p>
+</div></div></div>
+  
+  
+</article>
+          </div>
+
+    
+          <aside class="sidebars">
+                  <section class="region region-sidebar-second column sidebar">
+    <div id="block-menu-menu-admissions-deadlines" class="block block-menu first last odd" role="navigation">
+
+      
+  <ul class="menu"><li class="menu__item is-collapsed first collapsed"><a href="/academics/undergraduate/overview" title="" class="menu__link">Overview</a></li>
+<li class="menu__item is-collapsed collapsed"><a href="/academics/undergraduate/admissions" title="" class="menu__link">Admissions</a></li>
+<li class="menu__item is-expanded is-active-trail expanded active-trail"><a href="/academics/undergraduate/requirements" title="" class="menu__link is-active-trail active-trail active">Requirements</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/academics/undergraduate/requirements#bscsreq" title="" class="menu__link active">B.S. in Computer Science</a></li>
+<li class="menu__item is-leaf leaf"><a href="/academics/undergraduate/requirements#compbioreq" title="" class="menu__link active">B.S. in Computational Biology</a></li>
+<li class="menu__item is-leaf leaf"><a href="/academics/undergraduate/requirements#bcsareq" title="" class="menu__link active">Bachelor of Computer Science and Arts</a></li>
+<li class="menu__item is-leaf leaf"><a href="/academics/undergraduate/requirements#musictechreq" title="" class="menu__link active">B.S. in Music and Technology</a></li>
+<li class="menu__item is-leaf is-active-trail leaf active-trail"><a href="/academics/undergraduate/requirements#secondmajorreq" title="" class="menu__link is-active-trail active-trail active">Second Major in Computer Science</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/academics/undergraduate/requirements#minorreq" title="" class="menu__link active">Minor in Computer Science</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf"><a href="/academics/undergraduate/financial-aid" title="" class="menu__link">Financial Aid</a></li>
+<li class="menu__item is-collapsed last collapsed"><a href="/academics/undergraduate/other-programs" title="" class="menu__link">Other Programs for CS Students</a></li>
+</ul>
+</div>
+  </section>
+      </aside>
+    
+  </div>
+  
+
+
+<div id="slideout">
+  <div id="slidecontent">
+    <article class="node-19884 node node-page view-mode-full clearfix" about="/content/apply" typeof="foaf:Document">
+
+      <header>
+                  <span property="dc:title" content="Apply" class="rdf-meta element-hidden"></span>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p class="heading">Undergraduate Programs</p>
+<p>The admissions process for each undergraduate major varies from program to program, but admissions for our main bachelor of science in computer science are handled through Carnegie Mellon's central Office of Undergraduate Admission. Learn more on our <a target="_self" href="/academics/undergraduate/admissions">Undergraduate Admissions</a> page.</p>
+<p class="heading">Master's Programs</p>
+<p>The Computer Science Department offers a main M.S. in Computer Science, and applications for that program are submitted online by mid-December for fall admission the following year. Other master's programs available to CSD students have their own admissions processes. Learn more about our admissions requirements and processes <a target="_self" href="/academics/masters/admissions">here</a>.</p>
+<p class="heading">Doctoral Programs</p>
+<p>The Ph.D. in CS program uses the School of Computer Science online application for admissions. Applications are due in December for admittance the following fall. Students cannot begin in the spring. For more on how to apply, visit our <a target="_self" href="/academics/doctoral/admissions-overview">Doctoral Admissions</a> page.</p>
+</div></div></div>
+  
+  
+</article>
+  </div>
+  <div id="clickme">
+    <div>Apply</div>
+  </div>
+</div>
+
+
+<div id="slideout-2">
+  <div id="slidecontent-2">
+    <article class="node-222218909 node node-page view-mode-full clearfix" about="/content/faculty-positions" typeof="foaf:Document">
+
+      <header>
+                    <h2 class="node__title node-title"><a href="/content/faculty-positions">Faculty Positions</a></h2>
+            <span property="dc:title" content="Faculty Positions" class="rdf-meta element-hidden"></span>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p class="heading" style="padding-left: 30px;">Faculty Hiring</p>
+<p style="padding-left: 30px;">The Computer Science Department (CSD) at Carnegie Mellon University invites applications for tenure &amp; teaching-track, as well as PostDoctoral positions, which will begin Fall 2017. We intend to hire for multiple positions in a broad range of computing areas.</p>
+<p style="padding-left: 30px;">We are seeking candidates who have demonstrated commitment to excellence and leadership in undergraduate and graduate teaching, research, and/or service toward building an equitable and diverse scholarly environment.</p>
+<p style="padding-left: 30px;">For details, and how to apply, please visit our <a href="https://www.csd.cs.cmu.edu/content/faculty-hiring" target="_blank">Faculty Hiring page</a>.</p>
+</div></div></div>
+  
+  
+</article>
+  </div>
+  <div id="clickme-2">
+    <div>Faculty Positions</div>
+  </div>
+</div>
+    <footer id="footer" class="region region-footer">
+    <div id="block-block-1" class="block block-block first last odd">
+
+      
+  <div class="footer_left"><div class="address">Computer Science Department<br>Carnegie Mellon University<br> 5000 Forbes Avenue <br> Pittsburgh, PA 15213<br>Phone: 412-268-2565&nbsp;&nbsp;&nbsp;Fax: 412-268-5576<br><a href="http://www.facebook.com/pages/Pittsburgh-PA/Carnegie-Mellon-School-of-Computer-Science/170657132947108" target="new" border="0" class="no_icon"><span class="fa fa-facebook fa-lg" border="0" alt="Facebook"></span></a>&nbsp;<a href="http://twitter.com/CSDatCMU" target="new" border="0" class="no_icon"><span class="fa fa-twitter fa-lg" border="0" alt="Twitter"></span></a>&nbsp;<a href="https://plus.google.com/101009371381835899795" target="new" border="0" class="no_icon"><span class="fa fa-google fa-lg" border="0" alt="Google Plus"></span></a>&nbsp;<a href="feed/rss.xml" target="new" border="0"><span class="fa fa-rss fa-lg" border="0" alt="RSS News Feed"></span></a>&nbsp;<a href="mailto:www-team@cs.cmu.edu" target="new" border="0" class="no_icon"><span class="fa fa-mail fa-lg" border="0" alt="Email"></span></a></div></div><div class="footer_right"><div class="footer_logo"><a href="http://www.cs.cmu.edu" target="new" border="0" class="no_icon"><img src="/sites/all/themes/csd2014/images/scs-logo.png" alt="Carnegie Mellon University School of Computer Science" class="no_icon"></a></div></div><div class="footer_middle"><b>CARNEGIE MELLON UNIVERSITY</b><br> <a href="http://www.cmu.edu" target="new">Pittsburgh Campus</a><br> <a href="http://www.cmu.edu/silicon-valley/" target="new">Silicon Valley Campus</a><br><a href="http://www.qatar.cmu.edu" target="new">Qatar Campus</a></div>
+</div>
+  </footer>
+
+
+
+</div>
+  </body>
+</html>

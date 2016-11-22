@@ -20,8 +20,8 @@ def get_domains(request):
     return HttpResponse(json.dumps(data), content_type='application/json')
 
 def get_diff(request):
-    f1 = 'data/store_data/webversioning.github.io/webversioning.github.io/webversioning.github.io*2016-11-21 19:35:10.490732'
-    f2 = 'data/store_data/webversioning.github.io/webversioning.github.io/webversioning.github.io*2016-11-21 20:33:19.771246'
+    f1 = 'data/store_data/webversioning.github.io/cmu.html/cmu.html*2016-11-22 08:24:53.375638'
+    f2 = 'data/store_data/webversioning.github.io/cmu.html/cmu.html*2016-11-22 08:27:08.092723'
     f1 = diff.read_file(f1)
     f2 = diff.read_file(f2)
 
