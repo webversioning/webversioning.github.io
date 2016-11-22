@@ -7,9 +7,15 @@
             {"name": "lorem",
              "is_id": true}
             ]
+          },
+          {"url": "https://webversioning.github.io/vcu.html",
+          "divs": [
+            {"name": "textcontainer",
+             "is_id": true}
+            ]
           }
         ],
       "timer": 60
     }
-  }
+  },
 ]
